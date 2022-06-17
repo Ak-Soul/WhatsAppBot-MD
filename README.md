@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/soul"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/soul"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -24,11 +24,11 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/soul"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/soul"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/soul/soul/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/soul"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align="center">
@@ -55,19 +55,19 @@
 </p>
 
 <p align="center">
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD.svg?type=small"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fsoul%2FWhatsAppBot-MD?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsoul%2FWhatsAppBot-MD.svg?type=small"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/soul"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/soul/PublicBot/main/wlogo.svg.png" width="600"></a>
 </p>
 <br><br>
 <p align="center">
-  <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
+  <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/soul/soul/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
 </p>
 
 <br><br>
@@ -87,7 +87,7 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/soul/WhatsAppBot-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/soul/soul/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/soul/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   
@@ -124,7 +124,7 @@ OR
 
 
   ### ⚠️ Deploy With New Session? <br>
-Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
+Click [FORK](https://github.com/soul/WhatsAppBot-MD/fork) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>.
 
@@ -141,7 +141,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Alien-alfa/WhatsAppBot-MD
+git clone https://github.com/soul/WhatsAppBot-MD
 cd WhatsAppBot-MD
 rm -rf session.alfa.json
 npm install
@@ -161,16 +161,16 @@ $ node .
   
   <br><br><br><br><br>
   
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD.svg?type=large"/></a>
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fsoul%2FWhatsAppBot-MD?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsoul%2FWhatsAppBot-MD.svg?type=large"/></a>
   
   
   <!--
 # `CHANGE THESE SETTINGS`
 
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘚𝘌𝘚𝘚𝘐𝘖𝘕      [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/session.json#L1)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘜𝘔𝘉𝘌𝘙    [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/setting/setting.json#L9)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘈𝘔𝘌      [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/setting/setting.json#L10)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘕𝘈𝘔𝘌        [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/setting/setting.json#L11)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘚𝘌𝘚𝘚𝘐𝘖𝘕      [★彡[ʜᴇʀᴇ]彡★](https://github.com/soul/AlienAlfaBot/blob/master/session.json#L1)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘜𝘔𝘉𝘌𝘙    [★彡[ʜᴇʀᴇ]彡★](https://github.com/soul/AlienAlfaBot/blob/master/setting/setting.json#L9)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘈𝘔𝘌      [★彡[ʜᴇʀᴇ]彡★](https://github.com/soul/AlienAlfaBot/blob/master/setting/setting.json#L10)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘕𝘈𝘔𝘌        [★彡[ʜᴇʀᴇ]彡★](https://github.com/soul/AlienAlfaBot/blob/master/setting/setting.json#L11)
   
   
 -->
@@ -262,7 +262,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## ⚠️ Developers
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |
+| [![soul](https://github.com/soul.png?size=200)](https://github.com/soul) |
 |----|
 | [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
@@ -279,7 +279,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 ## ⚠️ Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Nurutomo`](https://github.com/Nurutomo)
-* [`Alien Alfa`](https://github.com/Alien-Alfa)
+* [`Alien Alfa`](https://github.com/soul)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
