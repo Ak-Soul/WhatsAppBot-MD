@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ－ＭＤ</strong>
+<strong>SOUL－ＭＤ</strong>
 </p>
 
 <p align="center">
@@ -87,11 +87,11 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/soul/WhatsAppBot-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/soul/soul/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/soul/WhatsAppBot-MD/fork"><img title="SOUL" src="https://github.com/soul/soul/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://bit.ly/3MnJRjE"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://bit.ly/3MnJRjE"><img title="SOUL" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Change Session In Github`
 
@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/soul/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/soul/4a3f940e9e65eee62fd76ffebf302cf1"><img title="SOUL" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   
@@ -264,7 +264,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   
 | [![soul](https://github.com/soul.png?size=200)](https://github.com/soul) |
 |----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
+| [꧁𓊈𒆜SOUL𒆜𓊉꧂](https://github.com/AI-VIKI) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
   
   </div>
@@ -291,3 +291,4 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
+.
